@@ -1,5 +1,5 @@
-site_name: $ENV_BIN_INIT_SH_ORGANIZATION_NAME/$ENV_BIN_INIT_SH_REPOSITORY_NAME
-site_url: https://$ENV_BIN_INIT_SH_FQDN
+site_name: renaud-fabien/wiki
+site_url: https://wiki.fabien-renaud.fr
 markdown_extensions:
   - sane_lists
 theme:
