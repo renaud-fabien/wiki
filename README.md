@@ -1,3 +1,3 @@
-# wiki-template
+# wiki
 
-This repository is a template for wiki using MkDocs
+This repository serves as a knowledge base for fabien-renaud-fr organization
